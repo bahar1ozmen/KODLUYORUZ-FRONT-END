@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background: rgb(155, 218, 226);
+}
+h1 {
+    color:rgb(26, 3, 124);
+}
+nav{
+    font-size: 20px;
+}
+
+div {
+    margin: 22px;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    background-color: #f5d56d;
+    width: 380px;    
+}
+
+.baslıklar{
+    float: left;
+}
+
+img {
+    width: 400px;
+    height: 350px;
+}
+ul { 
+    list-style-type:none;
+ }
