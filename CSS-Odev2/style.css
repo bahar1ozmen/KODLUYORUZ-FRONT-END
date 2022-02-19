@@ -1,0 +1,30 @@
+body {
+    background-color: #FFFFFF;
+}
+.search {
+    background-color: #EEEEEE; 
+    text-align: center;
+    width: 90%;
+
+}
+.box1 {
+    background:#7EE5DA;
+    width: 37%
+    
+}
+
+.box2 {
+    background:#70CCC2;
+    font-size: 13px
+
+}
+.box3 {
+    background: #62B3AA;
+    font-size: 13px
+    
+    
+
+}
+footer{
+    font-size: 13px;
+}
